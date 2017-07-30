@@ -13,9 +13,12 @@ You get following 3 methods to search for Contribution Payments as :
 2) Through Contact Phone
 3) Through Full Name
 
-Use following details for tracking your contribution payment as : 
+Use following details for tracking your contribution payment as :
+
 For Method No 1 : nicefellow007@gmail.com
+
 For Method No 2 : +923049815768
+
 For Method No 3 : Umair Shah
 
 Then after that you will see all contribution payments which are either paid or due by the user.
