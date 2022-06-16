@@ -5,9 +5,6 @@ A WordPress CiviCRM Plugin which helps contacts to pay their due contribution pa
 
 **NOTE :** Install the plugin first then you can use it by including widget shortcut as `[cl-pay]` anywhere in your page contents and then you will start seeing the widget in there on that page after visiting the page through frontend URL.
 
-# DEMO Link
-For Demo have a look at : https://civicrm.huntedhunter.com/contribution-later-payment-page/
-
 You get following 3 methods to search for Contribution Payments as : 
 1) Through Contact Email
 2) Through Contact Phone
